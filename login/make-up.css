@@ -1,0 +1,34 @@
+input.password{
+    border: none;
+}
+input{
+    width:100%;
+    height:30px;
+}
+input:focus{
+outline:none;
+}
+.name{
+    border:none;
+    border-bottom:2px solid black;
+}
+.or{
+    color:tomato;
+}
+.or-container{
+    text-align: center;
+}
+.facebook{
+    background-color:blue;
+}
+.Google{
+    background-color: orangered;
+}
+.submit{
+    background-color:tomato;
+    color:white;
+}
+.sign{
+    text-decoration:none;
+    color:tomato;
+}
